@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mscalafix[0m) scalafix.sbt.InvalidArgument: A Scala compiler option is required to use RemoveUnused. To fix this problem,[0m
+[0m[[0m[31merror[0m] [0m[0mupdate your build to add -Ywarn-unused (with 2.12), -Wunused (with 2.13), or [0m
+[0m[[0m[31merror[0m] [0m[0m-Wunused:all (with 3.4+)[0m

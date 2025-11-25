@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/media/lucas/32960A9341F5094B/ESTUDOS/KUBER-DOCKER-GIT/GITHUB-ACTIONS/lrios-scala-test/project/"), "lrios-scala-test-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating lrios-scala-test-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved lrios-scala-test-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating lrios-scala-test-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved lrios-scala-test-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of lrios-scala-test-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of lrios-scala-test-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/media/lucas/32960A9341F5094B/ESTUDOS/KUBER-DOCKER-GIT/GITHUB-ACTIONS/lrios-scala-test/project/"), "lrios-scala-test-build")[0m
