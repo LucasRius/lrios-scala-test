@@ -9,4 +9,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	Added: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	Removed: [0m
 [0m[[0m[0minfo[0m] [0m[0mscalafmt: Checking 1 Scala sources (/media/lucas/32960A9341F5094B/ESTUDOS/KUBER-DOCKER-GIT/GITHUB-ACTIONS/lrios-scala-test)...[0m
-[0m[[0m[0mdebug[0m] [0m[0mscalafmt: Unchanged 1 Scala sources[0m
+[0m[[0m[33mwarn[0m] [0m[0mscalafmt: /media/lucas/32960A9341F5094B/ESTUDOS/KUBER-DOCKER-GIT/GITHUB-ACTIONS/lrios-scala-test/src/main/scala/Main.scala isn't formatted properly![0m
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: Unchanged 0 Scala sources[0m

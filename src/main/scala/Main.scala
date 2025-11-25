@@ -6,8 +6,14 @@ object Main {
     println("Olá, Scala!") // Linha muito longa para o Scalafmt
   }
 
+
+
+
   def main(args: Array[String]): Unit = {
     runExample()
   }
 
 }
+
+
+
