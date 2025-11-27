@@ -8,3 +8,9 @@ jobs:
             language: 'scala'
             build_tool: 'sbt'
             toogle_lint_bypass: true
+            lint_pre_hook: | 
+              echo "TESTE 1"
+              echo "TESTE 2"
+            lint_post_hook: |
+              echo "POST 1"
+              echo "POST 2"
