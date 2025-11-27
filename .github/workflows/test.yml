@@ -1,8 +1,10 @@
 name: Teste
 
-on: workflow_dispatch
+on: [push, workflow_dispatch]
 jobs:
     teste:
         uses: LucasRius/lrios-ci-complete/.github/workflows/ci.yml@main
         with:
-            jvm_language: 'sbt'
+            language: 'scala'
+            build_tool: 'sbt'
+            toogle_lint_bypass: true
